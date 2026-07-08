@@ -1,0 +1,5 @@
+# robots.txt for https://malikhidayat-math.github.io/math-tutor-website/
+User-agent: *
+Allow: /
+
+Sitemap: https://malikhidayat-math.github.io/math-tutor-website/sitemap.xml

@@ -1,0 +1,14 @@
+{
+  "name": "Hidayat ul Allah | Online Mathematics Tutor",
+  "short_name": "Hidayat Maths",
+  "description": "Online Mathematics tutor for IGCSE, O Level, A Level, GCSE and Cambridge curriculum students.",
+  "start_url": "/math-tutor-website/",
+  "scope": "/math-tutor-website/",
+  "display": "standalone",
+  "background_color": "#F5F8FF",
+  "theme_color": "#12234A",
+  "icons": [
+    { "src": "assets/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
